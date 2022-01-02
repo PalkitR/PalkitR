@@ -1,15 +1,15 @@
 - 👋 Hi, I’m @PalkitR working as Quality Analyst [Manual Testing] at Tech Mahindra Limited along with 1.4 years of experience. I would like to tell my epertise in Testing Industry like
 
-**Manual Testing**
+**Manual Testing** ->
 Unit Testing, White & Black Box Testing, Performance Testing, Regression Testing, Sanity Testing, Alpha/Beta Testing, Integration Testing, Accessiblity Testing.
 
-**Automation Testing**
+**Automation Testing** ->
 Selenium Web Driver
 
-**Operating System Knowledge**
+**Operating System Knowledge** ->
 Selenium Web Driver
 
-**Server Knowledge**
+**Server Knowledge** ->
 Windows [2012, 2016, 2019], Linux Server
 
 <!---
